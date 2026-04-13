@@ -1,0 +1,30 @@
+# 환경변수
+.env
+.env.*
+
+# 가상환경
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# ChromaDB 로컬 저장소
+chroma_db/
+*.db
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 로그
+*.log
+logs/
