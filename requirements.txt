@@ -1,0 +1,14 @@
+# LangChain / LangGraph
+langchain
+langchain-community
+langchain-openai
+langchain-anthropic
+langgraph
+
+# RAG
+chromadb
+tiktoken
+
+# 기타 유틸
+python-dotenv
+pydantic
