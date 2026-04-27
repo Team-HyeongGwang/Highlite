@@ -1,7 +1,7 @@
 ---
 name: "✨ Feature"
-about: "✨ [Feat]"
-title: ''
+about: 기능 추가 이슈 템플릿
+title: "✨ [Feat]"
 labels: ''
 assignees: ''
 

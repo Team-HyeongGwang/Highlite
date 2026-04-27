@@ -1,7 +1,7 @@
 ---
 name: "\U0001F41B Bug"
-about: "\U0001F41B [Fix]"
-title: ''
+about: 버그 리포트 이슈 템플릿
+title: "\U0001F41B [Bug] "
 labels: ''
 assignees: ''
 
