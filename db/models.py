@@ -31,7 +31,7 @@ class DocumentChunk(Base):
     document_id = Column(Integer, ForeignKey("documents.id", ondelete="CASCADE"))
     page_number = Column(Integer)
     original_text = Column(Text, nullable=False)
-    metadata = Column(JSON, nullable=True) 
+    meta_data = Column(JSON, nullable=True) 
 
     document = relationship("Document", back_populates="chunks")
     importance = relationship("ImportanceResult", back_populates="chunk", uselist=False)
